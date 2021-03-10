@@ -1,1 +1,1 @@
-este es mi primer commit en gitgub
+este es mi primer commit en github
